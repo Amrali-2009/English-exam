@@ -1,0 +1,6 @@
+{
+  "name": "English Exam Portal - Grade 12",
+  "description": "An elegant and professional English exam portal for Grade 12 Advanced/Elite, featuring automatic AI-powered grading and detailed feedback reports based on standard criteria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
